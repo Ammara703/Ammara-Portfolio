@@ -41,7 +41,7 @@ export default function Header() {
               websites with creativity and expertise.
             </p>
             <div className="btn5-div">
-              <a href="#" className="btn1 btn5">
+              <a href="#Contact" className="btn1 btn5">
                 <span>Let&apos;s Connect</span>
               </a>
             </div>
